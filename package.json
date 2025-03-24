@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/hedera-dev/hedera-mcp-server/issues"
   },
-  "homepage": "https://github.com/hedera-dev/hedera-mcp-server#readme"
+  "homepage": "https://github.com/hedera-dev/hedera-mcp-server#readme",
+  "dependencies": {
+    "@zodios/core": "10.9.6",
+    "fastmcp": "1.20.5",
+    "zod": "3.24.2"
+  }
 }
