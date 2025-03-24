@@ -1,0 +1,23 @@
+{
+  "name": "hedera-mcp-server",
+  "version": "0.0.0",
+  "description": "an MCP (model-context-protocol) server for Hedera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedera-dev/hedera-mcp-server.git"
+  },
+  "keywords": [
+    "hedera",
+    "mcp"
+  ],
+  "author": "bguiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hedera-dev/hedera-mcp-server/issues"
+  },
+  "homepage": "https://github.com/hedera-dev/hedera-mcp-server#readme"
+}
